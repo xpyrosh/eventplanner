@@ -4,9 +4,9 @@ import styles from "../styles/Footer.module.css";
 export default function Footer() {
     return (
         <footer className={styles.footer}>
-            <p>Copyright &copy; Events Planner 2022</p>
+            <p>Copyright &copy; GTA Events 2022</p>
             <p>
-                <Link href="/about">About Events Planner</Link>
+                <Link href="/about">More About GTA Events...</Link>
             </p>
         </footer>
     );

@@ -19,7 +19,7 @@ export default function Layout({ title, keywords, description, children }) {
 }
 
 Layout.defaultProps = {
-    title: "Event Planner | Plan or Find Local Events",
-    description: "Gather with like minded people!",
-    keywords: "events, local, gathering",
+    title: "GTA Event Planner | Plan or Find Local Events",
+    description: "Gather with like minded people in the GTA!",
+    keywords: "events, local, gathering, toronto, gta",
 };
